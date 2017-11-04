@@ -1,0 +1,9 @@
+# English strings go here for Rails i18n
+en:
+  redmine_latex_mathjax_config_title: "Konfiguracja Redmine LaTeX MathJax"
+  redmine_latex_mathjax_label_url: "URL MathJax:"
+  redmine_latex_mathjax_label_inline_delimiter_start: "Znak rozpoczęcia kodu LaTeXa w linii:"
+  redmine_latex_mathjax_label_inline_delimiter_end: "Znak zakończenia kodu LaTeXa w linii:"
+  redmine_latex_mathjax_label_block_delimiter_start: "Znak rozpoczęcia kodu LaTeXa w bloku:"
+  redmine_latex_mathjax_label_block_delimiter_end: "Znak zakończenia kodu LaTeXa w bloku:"
+  redmine_latex_mathjax_label_html_css_config: "Konfiguracja MathJax HTML-CSS:"
